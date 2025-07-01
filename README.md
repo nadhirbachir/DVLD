@@ -64,7 +64,7 @@
 
 2. **Set up the database**
    - Create a new SQL Server database named `DVLD_DB`
-   - Run the database scripts from the `Database` folder
+   - Restore the database from `database backup` folder `DVLD.bak` file
    - Update the connection string in `DVLD_DataAccess/clsDataAccessSettings.cs`
 
 3. **Build and run**
@@ -74,8 +74,8 @@
    - Run the application (F5)
 
 ### Default Login
-- **Username:** admin
-- **Password:** admin123
+- **Username:** user5
+- **Password:** 1234
 
 ## 📁 Project Structure
 
@@ -128,7 +128,7 @@ The project includes comprehensive testing for:
 - Integration testing
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 
 ⭐ **Star this repository if you find it helpful!**
