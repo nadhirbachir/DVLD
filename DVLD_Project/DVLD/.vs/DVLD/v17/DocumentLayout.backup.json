@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF9EC20-BCD7-47CC-8F07-2FF61D2481CF}|..\\DVLD_Business\\DVLD_Business.csproj|c:\\users\\nadir\\source\\repos\\dvld_project\\dvld_business\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF9EC20-BCD7-47CC-8F07-2FF61D2481CF}|..\\DVLD_Business\\DVLD_Business.csproj|c:\\users\\nadir\\source\\repos\\dvld_project\\dvld_business\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\peopemanagement\\frmaddeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|solutionrelative:peopemanagement\\frmaddeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\ctrls\\ctrleditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|solutionrelative:ctrls\\ctrleditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|c:\\users\\nadir\\source\\repos\\dvld_project\\dvld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5326B15A-BA98-4FAC-B2E9-F06B2987FF97}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:47:50.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:48:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrlEditPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\Ctrls\\ctrlEditPerson.cs",
+              "RelativeDocumentMoniker": "Ctrls\\ctrlEditPerson.cs",
+              "ToolTip": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\Ctrls\\ctrlEditPerson.cs",
+              "RelativeToolTip": "Ctrls\\ctrlEditPerson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwHQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:09:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddEditPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\PeopeManagement\\frmAddEditPerson.cs",
+              "RelativeDocumentMoniker": "PeopeManagement\\frmAddEditPerson.cs",
+              "ToolTip": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\PeopeManagement\\frmAddEditPerson.cs",
+              "RelativeToolTip": "PeopeManagement\\frmAddEditPerson.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:48:49.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD_Business\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Business\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD_Business\\clsPerson.cs",
+              "RelativeToolTip": "..\\DVLD_Business\\clsPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:59:15.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD_Business\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Business\\clsUser.cs",
+              "ToolTip": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD_Business\\clsUser.cs",
+              "RelativeToolTip": "..\\DVLD_Business\\clsUser.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:46:04.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Nadir\\source\\repos\\DVLD_Project\\DVLD\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:05:45.222Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
