@@ -58,7 +58,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/DVLD.git
+   git clone https://github.com/nadhirbachir/DVLD.git
    cd DVLD
    ```
 
@@ -102,8 +102,6 @@ DVLD/
 - **Licenses** - Issued licenses
 - **Users** - System users
 
-[View complete database documentation](docs/database-schema.md)
-
 ## 📊 System Workflows
 
 ### License Application Process
@@ -116,25 +114,11 @@ Person Registration → Application Submission → Tests (Vision/Written/Practic
 License Issued → Renewal/Replacement → Status Management → History Tracking
 ```
 
-## 🔧 Configuration
-
-### Database Connection
-Update the connection string in `DVLD_DataAccess/clsDataAccessSettings.cs`:
-
-```csharp
-public static string ConnectionString = "Server=.;Database=DVLD_DB;Integrated Security=true;";
-```
-
-### Application Settings
-Configure application settings in `App.config` file.
-
 ## 📖 Documentation
 
-- [Complete Documentation](docs/documentation.md)
-- [Database Schema](docs/database-schema.md)
-- [User Manual](docs/user-manual.md)
-- [API Reference](docs/api-reference.md)
+- [Complete Documentation](DVLD_project_documentation.md)
 
+- 
 ## 🧪 Testing
 
 The project includes comprehensive testing for:
@@ -143,49 +127,10 @@ The project includes comprehensive testing for:
 - User interface functionality
 - Integration testing
 
-Run tests using Visual Studio Test Explorer.
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🐛 Issues & Support
-
-- 🐞 **Bug Reports:** [Create an issue](https://github.com/yourusername/DVLD/issues/new?template=bug_report.md)
-- 💡 **Feature Requests:** [Request a feature](https://github.com/yourusername/DVLD/issues/new?template=feature_request.md)
-- ❓ **Questions:** [Discussions](https://github.com/yourusername/DVLD/discussions)
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who helped with this project
-- Inspired by real-world DMV management systems
-- Built for educational and demonstration purposes
-
-## 📈 Roadmap
-
-- [ ] Web-based interface
-- [ ] Mobile application
-- [ ] API development
-- [ ] Cloud deployment
-- [ ] Advanced reporting
-- [ ] Integration with external systems
-
----
 
 ⭐ **Star this repository if you find it helpful!**
 
-📧 **Contact:** your.email@example.com
+📧 **Contact:** nadirforme@gmail.com
